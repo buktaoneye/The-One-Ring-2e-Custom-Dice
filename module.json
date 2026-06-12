@@ -1,0 +1,34 @@
+{
+  "id": "dice-the-one-ring",
+  "title": "The One Ring Custom Dice",
+  "description": "Adds custom 3D dice for The One Ring 2nd Edition to Dice So Nice!",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "MF False"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "tor2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "scripts": [
+    "scripts/tor-dice.js"
+  ]
+}
