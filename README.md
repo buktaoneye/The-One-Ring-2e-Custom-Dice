@@ -12,13 +12,22 @@ This module transforms the following dice terms within Dice So Nice! when rollin
 *   **d12 (Feat Dice)**: `d12`, `df`, `de`
 
 ## Installation
-To install this module:
-1.  In your FoundryVTT game folder, navigate to the `modules` directory.
-2.  Create a folder `dice-the-one-ring`.
-3.  Paste in the `assets`, `scripts` and `module.json` into the folder.
-4.  Restart your FoundryVTT server if it is currently running.
-5.  Log into your world as a Gamemaster.
-6.  Go to the **Game Settings** tab, click **Manage Modules**, and enable **The One Ring Custom Dice**.
+
+### Via Manifest URL (Recommended)
+1. Open the Foundry VTT Setup screen and go to the **Add-on Modules** tab.
+2. Click **Install Module**.
+3. Paste the following manifest URL in the text box at the bottom:
+   ```
+   https://raw.githubusercontent.com/buktaoneye/The-One-Ring-2e-Custom-Dice/main/module.json
+   ```
+4. Click **Install**.
+
+### Manual Installation
+If you prefer to install it manually:
+1.  Copy the entire `dice-the-one-ring` folder into your FoundryVTT `Data/modules/` directory.
+2.  Restart your FoundryVTT server if it is currently running.
+3.  Log into your world as a Gamemaster.
+4.  Go to the **Game Settings** tab, click **Manage Modules**, and enable **The One Ring Custom Dice**.
 
 ## Configuration
 To use the new dice themes:
