@@ -24,7 +24,7 @@ This module transforms the following dice terms within Dice So Nice! when rollin
 
 ### Manual Installation
 If you prefer to install it manually:
-1.  Copy the entire `dice-the-one-ring` folder into your FoundryVTT `Data/modules/` directory.
+1.  Copy the entire `dice-the-one-ring.zip` folder into your FoundryVTT `Data/modules/` directory. Unzip into the `Data/modules/` directory.
 2.  Restart your FoundryVTT server if it is currently running.
 3.  Log into your world as a Gamemaster.
 4.  Go to the **Game Settings** tab, click **Manage Modules**, and enable **The One Ring Custom Dice**.
