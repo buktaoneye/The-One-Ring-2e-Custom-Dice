@@ -36,4 +36,4 @@ To use the new dice themes:
 3.  When you make rolls using the `tor2e` system, your 3D dice will now feature the custom success and feat runes.
 
 ## Credits
-*   Images by Discord user **asampieri**.
+*   Original images from Discord user **asampieri**.
