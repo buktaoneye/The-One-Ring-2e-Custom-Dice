@@ -29,11 +29,12 @@ If you prefer to install it manually:
 3.  Log into your world as a Gamemaster.
 4.  Go to the **Game Settings** tab, click **Manage Modules**, and enable **The One Ring Custom Dice**.
 
-## Configuration
+## Configuration (Foundry v13)
 To use the new dice themes:
 1.  In Foundry, go to the **Game Settings** tab, then select **Configure Settings** and select **Dice So Nice!**.
 2.  Select the **3D Dice Settings** tab, then in the **Dice Presets (Faces)** dropdown select either **The One Ring 2e (White)** or **The One Ring 2e (Black)**.
-3.  When you make rolls using the `tor2e` system, your 3D dice will now feature the custom success and feat runes.
+3. Select **Performance** across the top navigation and turn Image Quality to **High**.
+4.  When you make rolls using the `tor2e` system, your 3D dice will now feature the custom success and feat runes.
 
 ## Credits
 *   Original images from Discord user **asampieri**.
