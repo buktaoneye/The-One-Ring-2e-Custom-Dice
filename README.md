@@ -37,3 +37,7 @@ To use the new dice themes:
 
 ## Credits
 *   Original images from Discord user **asampieri**.
+
+## Preview
+![White Dice](assets/preview-white.jpg)
+![Black Dice](assets/preview-black.jpg)
