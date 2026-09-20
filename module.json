@@ -2,10 +2,10 @@
   "id": "dice-the-one-ring",
   "title": "The One Ring Custom Dice",
   "description": "Adds custom 3D dice for The One Ring 2nd Edition to Dice So Nice!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/buktaoneye/The-One-Ring-2e-Custom-Dice",
   "manifest": "https://raw.githubusercontent.com/buktaoneye/The-One-Ring-2e-Custom-Dice/main/module.json",
-  "download": "https://github.com/buktaoneye/The-One-Ring-2e-Custom-Dice/releases/download/v1.0.0/module.zip",
+  "download": "https://github.com/buktaoneye/The-One-Ring-2e-Custom-Dice/releases/download/v1.0.1/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
