@@ -40,7 +40,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "modules/dice-the-one-ring/assets/whiteset/d6/d6-5.png",
         "modules/dice-the-one-ring/assets/whiteset/d6/d6-6.png"
     ];
-    for (const term of ["d6", "ds", "dw"]) {
+    for (const term of ["d6", "ds", "dw", "dt", "dx"]) {
         dice3d.addDicePreset({
             type: term,
             labels: whiteD6Faces,
@@ -87,7 +87,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         "modules/dice-the-one-ring/assets/blackset/d6/d6_success_black_d6-5.png",
         "modules/dice-the-one-ring/assets/blackset/d6/d6_success_black_d6-6.png"
     ];
-    for (const term of ["d6", "ds", "dw"]) {
+    for (const term of ["d6", "ds", "dw", "dt", "dx"]) {
         dice3d.addDicePreset({
             type: term,
             labels: blackD6Faces,
